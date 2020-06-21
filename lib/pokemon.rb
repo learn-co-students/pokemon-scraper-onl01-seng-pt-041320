@@ -27,5 +27,6 @@ class Pokemon
 
         new_pokemon = self.new(id: id, name: name, type: type, db: db)
         new_pokemon
+        #binding.pry
     end
 end
